@@ -13,7 +13,7 @@ body {
 	padding: 0;
 	margin: 0;
 	background: #FFF;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Campto', sans-serif;
 }
 
 body a {
@@ -320,7 +320,7 @@ a:focus, a:hover {
 	}
 
 	.heading h2 {
-		font-family: 'Roboto', sans-serif;
+		font-family: 'Campto', sans-serif;
 		font-size: 50px;
 		font-weight: 100;
 		color: #EEE;
@@ -328,7 +328,7 @@ a:focus, a:hover {
 	}
 
 	.heading h3 {
-		font-family: 'Roboto', sans-serif;
+		font-family: 'Campto', sans-serif;
 		font-size: 40px;
 		font-weight: 100;
 		color: #EEE;
@@ -711,7 +711,7 @@ a:focus, a:hover {
 }
 
 .wthreetabsaits .item h4 {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Campto', sans-serif;
 	font-size: 17px;
 	font-weight: 100;
 	color: #CCC;
